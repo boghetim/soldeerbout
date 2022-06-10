@@ -2,7 +2,7 @@
 
 
 ## schemetic schema's ##
-- [X] 
+- [X] MD 
 
 ## PCB altuim ##
 - [X] 
