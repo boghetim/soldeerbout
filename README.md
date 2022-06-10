@@ -2,25 +2,25 @@
 
 
 ## schemetic schema's ##
-- [X] MD 
+- [X] complete (no error)
 
 ## PCB altuim ##
-- [X] 
+- [X] complete (no error)
 
 ## bestukken PCB ##
-- [X] 
+- [X] complete (working)
 
 ## ontwerp case (GameCube) ##
-- [X] 
+- [X] complete (no error)
 
 ## 3D Print case ##
-- [X] 
+- [X] complete (no error)
 
 ## Application note soldeerstation ##
-- [X] 
+- [X] done
 
 ## Powerpoint presentatie ##
-- [X] 
+- [X] done
 
 ## final product (werkt) ##
-- [X] 
+- [X] complete (working)
